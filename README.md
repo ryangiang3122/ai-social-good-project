@@ -1,6 +1,8 @@
 # ai-social-good-project
 Project 3 for 110A
 
+Project Idea: Multilingual civic services assistant
+
 Part 3
 Who specifically is affected, and how? 
 
